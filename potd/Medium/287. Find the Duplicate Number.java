@@ -14,4 +14,4 @@ class Solution {
 }
 
 
-//Implemented an alternative solution using an integer array instead of a HashMap to enhance memory efficiency. This approach is particularly suitable for the problem '287. Find the Duplicate Number' in the 'Array/Medium' category."
+//Implemented an alternative solution using an integer array instead of a HashMap to enhance memory efficiency. This approach is particularly suitable for the problem '287. Find the Duplicate Number' is in the 'Array/Medium' category."
